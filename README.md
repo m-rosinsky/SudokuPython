@@ -29,4 +29,4 @@ python3 sudoku.py
 
 ## Screenshots
 
-![img](https://imgur.com/eJMHSrU)
+![img](https://i.imgur.com/eJMHSrU.png)
